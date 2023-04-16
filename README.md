@@ -4,7 +4,7 @@
 
     This is the final project, named "Telco Customer Churn Prediction", for the course "CS 513 - Knowledge Discovery and Data Mining" at Stevens Institute of Technology. The project was conducted in collaboration among three Computer Science students, namely Shiva Rama Krishna Mandadapu, Hantao Gao, and Thanapoom Phatthanaphan. 
  
-    The objective of the project is to provide a comprehensive overview of Data Exploratory and Analysis (EDA) principles, specifically for analyzing all relevant customer data of a telecommunications company. This process aims to gain a clear understanding of the dataset. Additionally, the project will involve the implementation of nine different machine learning models to predict whether a customer is likely to churn (leave) a telecommunications company's service or not. Furthermore, we will evaluate the performance of each model by presenting the classification report and confusion matrix to determine the optimal one.
+    The objective of the project is to provide a comprehensive overview of Exploratory Data Analysis (EDA) principles, specifically for analyzing all relevant customer data of a telecommunications company. This process aims to gain a clear understanding of the dataset. Additionally, the project will involve the implementation of nine different machine learning models to predict whether a customer is likely to churn (leave) a telecommunications company's service or not. Furthermore, we will evaluate the performance of each model by presenting the classification report and confusion matrix to determine the optimal one.
 
 2. Problem Statement
  
